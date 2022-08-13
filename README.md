@@ -1,4 +1,7 @@
 # pics
+![tradingview](https://user-images.githubusercontent.com/29006948/184504730-9a5d3971-11a0-414d-9c52-92e6855dfb09.jpg)
+![altme](https://user-images.githubusercontent.com/29006948/184504746-30da9fec-8cd3-40d9-9c31-44ed9425e964.jpg)
+![nomics](https://user-images.githubusercontent.com/29006948/184504805-3da86144-cdca-4fc0-8b0a-17ff75bdd505.jpg)
 ![LB1E2fwI](https://user-images.githubusercontent.com/29006948/183974942-76b511cb-df39-4d64-a2c6-6ed2e15f04f9.png)
 ![BTCUSDT](https://user-images.githubusercontent.com/29006948/184110222-65046919-86ea-4078-a6d4-c309947862a7.png)
 ![ETHUSDT](https://user-images.githubusercontent.com/29006948/184111135-f6f656a8-7c66-45b4-94b0-d1d8c4295df0.png)
@@ -11,4 +14,4 @@
 ![eth13](https://user-images.githubusercontent.com/29006948/184487829-c0fa61a1-5366-4db7-bbae-fa0e612a479a.jpg)
 ![tradingview](https://user-images.githubusercontent.com/29006948/184504730-9a5d3971-11a0-414d-9c52-92e6855dfb09.jpg)
 ![altme](https://user-images.githubusercontent.com/29006948/184504746-30da9fec-8cd3-40d9-9c31-44ed9425e964.jpg)
-
+![nomics](https://user-images.githubusercontent.com/29006948/184504805-3da86144-cdca-4fc0-8b0a-17ff75bdd505.jpg)
