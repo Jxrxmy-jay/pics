@@ -9,3 +9,4 @@
 ![bnb13](https://user-images.githubusercontent.com/29006948/184487809-f5deafda-20f6-42cd-917d-49cd21a10aef.jpg)
 ![btc13](https://user-images.githubusercontent.com/29006948/184487818-9a992298-32e2-4a33-983d-a3e2eb4596e3.jpg)
 ![eth13](https://user-images.githubusercontent.com/29006948/184487829-c0fa61a1-5366-4db7-bbae-fa0e612a479a.jpg)
+![tradingview](https://user-images.githubusercontent.com/29006948/184504730-9a5d3971-11a0-414d-9c52-92e6855dfb09.jpg)
