@@ -6,4 +6,6 @@
 ![Defi tadfi](https://user-images.githubusercontent.com/29006948/184252794-ac69a3cb-8d7c-49c8-8d67-1431546744b2.jpeg)
 ![image1](https://user-images.githubusercontent.com/29006948/184320935-e909694d-93a1-463a-bf58-b3672806d800.jpg)
 ![nigerians](https://user-images.githubusercontent.com/29006948/184333437-2c7e3b24-056c-41d9-ae08-4861ae21364a.png)
-
+![bnb13](https://user-images.githubusercontent.com/29006948/184487809-f5deafda-20f6-42cd-917d-49cd21a10aef.jpg)
+![btc13](https://user-images.githubusercontent.com/29006948/184487818-9a992298-32e2-4a33-983d-a3e2eb4596e3.jpg)
+![eth13](https://user-images.githubusercontent.com/29006948/184487829-c0fa61a1-5366-4db7-bbae-fa0e612a479a.jpg)
