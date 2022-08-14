@@ -1,4 +1,7 @@
 # pics
+<img width="586" alt="typesofbc" src="https://user-images.githubusercontent.com/29006948/184556527-c28feb69-3d52-463c-954a-78fc4ed511de.png">
+![cryptoaug14](https://user-images.githubusercontent.com/29006948/184556556-8d03cf7e-4cc4-4d44-a475-6b62d21fb3d1.png)
+
 ![Octasc1](https://user-images.githubusercontent.com/29006948/184538539-1a756284-aaec-4485-9ff1-7488f004e232.png)
 ![Inkedoctasc2](https://user-images.githubusercontent.com/29006948/184538536-b4cdb0bf-26b5-4738-b57f-c5c9d065ac61.jpg)
 ![forexaug14](https://user-images.githubusercontent.com/29006948/184517932-0b1fb596-7a71-43dd-baf0-78f9051f9c1c.png)
