@@ -1,4 +1,6 @@
 # pics
+![Octasc1](https://user-images.githubusercontent.com/29006948/184538539-1a756284-aaec-4485-9ff1-7488f004e232.png)
+![Inkedoctasc2](https://user-images.githubusercontent.com/29006948/184538536-b4cdb0bf-26b5-4738-b57f-c5c9d065ac61.jpg)
 ![forexaug14](https://user-images.githubusercontent.com/29006948/184517932-0b1fb596-7a71-43dd-baf0-78f9051f9c1c.png)
 ![tradingview](https://user-images.githubusercontent.com/29006948/184504730-9a5d3971-11a0-414d-9c52-92e6855dfb09.jpg)
 ![altme](https://user-images.githubusercontent.com/29006948/184504746-30da9fec-8cd3-40d9-9c31-44ed9425e964.jpg)
