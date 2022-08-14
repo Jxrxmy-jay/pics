@@ -1,4 +1,5 @@
 # pics
+![forexaug14](https://user-images.githubusercontent.com/29006948/184517932-0b1fb596-7a71-43dd-baf0-78f9051f9c1c.png)
 ![tradingview](https://user-images.githubusercontent.com/29006948/184504730-9a5d3971-11a0-414d-9c52-92e6855dfb09.jpg)
 ![altme](https://user-images.githubusercontent.com/29006948/184504746-30da9fec-8cd3-40d9-9c31-44ed9425e964.jpg)
 ![nomics](https://user-images.githubusercontent.com/29006948/184504805-3da86144-cdca-4fc0-8b0a-17ff75bdd505.jpg)
