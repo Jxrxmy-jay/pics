@@ -1,4 +1,9 @@
 # pics
+![randr](https://user-images.githubusercontent.com/29006948/186420195-99ed202a-8b3c-49c9-a488-924e9921d109.jpg)
+![tencomp](https://user-images.githubusercontent.com/29006948/186420204-0b16c438-3b09-4ff6-8080-4f715f0464f8.jpg)
+![typassetclss](https://user-images.githubusercontent.com/29006948/186420210-f9b9ee7a-de02-435f-8a78-d76d68e1fab0.png)
+![varasstclss](https://user-images.githubusercontent.com/29006948/186420213-1b2d2190-e375-4184-a5e4-c5de879d03a9.png)
+
 <img width="586" alt="typesofbc" src="https://user-images.githubusercontent.com/29006948/184556527-c28feb69-3d52-463c-954a-78fc4ed511de.png">
 
 ![cryptoaug14](https://user-images.githubusercontent.com/29006948/184556556-8d03cf7e-4cc4-4d44-a475-6b62d21fb3d1.png)
