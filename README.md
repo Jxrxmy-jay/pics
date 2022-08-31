@@ -1,4 +1,6 @@
 # pics
+![T-bills](https://user-images.githubusercontent.com/29006948/187676564-37a14ced-b5d7-4fa3-b400-f6c58862013f.png)
+
 ![randr](https://user-images.githubusercontent.com/29006948/186420195-99ed202a-8b3c-49c9-a488-924e9921d109.jpg)
 ![tencomp](https://user-images.githubusercontent.com/29006948/186420204-0b16c438-3b09-4ff6-8080-4f715f0464f8.jpg)
 ![typassetclss](https://user-images.githubusercontent.com/29006948/186420210-f9b9ee7a-de02-435f-8a78-d76d68e1fab0.png)
