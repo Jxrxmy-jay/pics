@@ -1,4 +1,8 @@
 # pics
+![dyor3](https://user-images.githubusercontent.com/29006948/188632203-4e59fea9-b7da-4073-aab3-6334874b5ad3.png)
+![messari](https://user-images.githubusercontent.com/29006948/188632209-0eba68ad-d773-44f7-a4d0-e577236aa563.png)
+![twitter](https://user-images.githubusercontent.com/29006948/188632214-dfdf9c64-ebcb-4b9a-876e-ea22d44436d9.jpg)
+
 ![Screenshot (2)](https://user-images.githubusercontent.com/29006948/188264054-88b865e5-cdf6-4a0b-abc9-288fb2804499.png)
 
 ![T-bills](https://user-images.githubusercontent.com/29006948/187676564-37a14ced-b5d7-4fa3-b400-f6c58862013f.png)
